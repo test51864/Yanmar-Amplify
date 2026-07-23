@@ -1,0 +1,30 @@
+YANMAR AMPLIFY — GITHUB PAGES UPLOAD
+
+Upload ALL items inside this folder directly to the root of the GitHub repository:
+
+- .nojekyll
+- index.html
+- app.css
+- app.js
+- assets
+- README.md
+- QA-REPORT.md
+- VERSION.txt
+- GITHUB-UPLOAD-INSTRUCTIONS.txt
+
+Do not place these items inside an extra folder in the repository.
+Do not upload the old numbered ym-*.css or ym-*.js files next to this release.
+
+RECOMMENDED UPDATE METHOD
+
+1. Open the existing GitHub repository.
+2. Remove the old website files from the repository root, while keeping the repository itself.
+3. Upload every file and the complete assets folder from this clean release.
+4. Confirm that index.html is directly visible in the repository root.
+5. Open Settings > Pages.
+6. Set the source to the main branch and /(root).
+7. Save and wait for GitHub Pages to deploy.
+8. Open the published website in a private/incognito window.
+9. If an old version is still visible, refresh with Ctrl+F5 or clear the site data once.
+
+The website has no build step. GitHub Pages must publish the files exactly as uploaded.

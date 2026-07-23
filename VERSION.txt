@@ -1,0 +1,7 @@
+Yanmar Amplify — GitHub-ready static release
+Release: 2026-07-23.01
+Entry point: index.html
+Active stylesheet: app.css
+Active script: app.js
+Build tooling required: none
+Hosting target: GitHub Pages from repository root
